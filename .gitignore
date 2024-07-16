@@ -1,0 +1,4 @@
+otp_server/*
+otp_server/greater-london-latest.osm.pbf
+otp_server/graph.obj
+otp_server/otp-2.5.0-shaded.jar
