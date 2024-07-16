@@ -2,3 +2,6 @@ otp_server/*
 otp_server/greater-london-latest.osm.pbf
 otp_server/graph.obj
 otp_server/otp-2.5.0-shaded.jar
+data/gld_msoa_centroids.csv
+data/futures.pkl
+data/all_possible_od_pairs.csv
